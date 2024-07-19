@@ -5,3 +5,8 @@
 .varTwo {
     font-size: 50px;
 }
+
+#classOne {
+    color: rgb(42, 42, 210);
+    font-size: 60px;
+}
