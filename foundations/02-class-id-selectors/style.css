@@ -1,9 +1,10 @@
 .numOne {
     background-color: rgb(255, 184, 196);
     font-size: 25px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 .varTwo {
-    font-size: 50px;
+    font-size: 40px;
 }
 
 #classOne {
