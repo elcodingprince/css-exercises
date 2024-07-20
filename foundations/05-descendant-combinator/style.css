@@ -1,3 +1,5 @@
 .container p.text {
-    color: blue;
+    background-color: yellow;
+    text-align: center;
+    color: red;
 }
