@@ -23,10 +23,13 @@ body {
 .button-container {
   background: #e3f4ff;
   margin-bottom: 16px;
+  padding-left: 10px;
+  text-align: center;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
   display: block;
+  text-align: center;
 }
