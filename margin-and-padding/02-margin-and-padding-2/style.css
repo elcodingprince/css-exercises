@@ -7,6 +7,7 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  display: inline-block;
 }
 
 .title {
@@ -15,10 +16,13 @@ body {
 
 .content {
   background: #e3f4ff;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 
 .button-container {
   background: #e3f4ff;
+  margin-bottom: 16px;
 }
 
 button {
