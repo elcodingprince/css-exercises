@@ -38,7 +38,6 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
-  display: flex;
 }
 
 a {
@@ -54,7 +53,12 @@ ul {
 }
 
 .right-side {
-  display: flex;
   gap: 16px;
   margin-left: auto;
+  display: flex;
+  align-self: center;
+}
+
+.notifications {
+  align-self: center;
 }
