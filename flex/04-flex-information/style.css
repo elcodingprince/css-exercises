@@ -17,7 +17,6 @@ img {
 
 .image-with-discription {
   display: flex;
-  justify-content: space-between;
   gap: 52px;
 }
 
