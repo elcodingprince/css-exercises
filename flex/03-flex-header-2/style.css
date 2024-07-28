@@ -52,3 +52,9 @@ ul {
   display: flex;
   gap: 16px;
 }
+
+.right-side {
+  display: flex;
+  gap: 16px;
+  margin-left: auto;
+}
