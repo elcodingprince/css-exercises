@@ -17,12 +17,18 @@ img {
 
 .image-with-discription {
   display: flex;
+  justify-content: space-between;
+  gap: 52px;
 }
 
-.text {
+.child {
   display: flex;
   flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
+
+
 /* do not edit this footer */
 .footer {
   position: fixed;
