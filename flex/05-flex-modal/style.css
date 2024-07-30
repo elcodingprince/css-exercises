@@ -74,15 +74,12 @@ button.cancel {
 
 
 .modal .icon {
-  align-self: flex-start;
   flex-shrink: 0;
 }
 
 .header {
   display: flex;
   font-weight: bold;
+  justify-content: space-between;
 }
 
-.header .close-button {
-  align-items: flex-end;
-}
