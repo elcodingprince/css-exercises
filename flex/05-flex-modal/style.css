@@ -75,4 +75,5 @@ button.cancel {
 
 .modal .icon {
   align-self: flex-start;
+  flex-shrink: 0;
 }
