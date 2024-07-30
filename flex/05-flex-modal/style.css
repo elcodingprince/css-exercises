@@ -21,6 +21,7 @@ body {
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   padding: 18px;
+  display: flex;
 }
 
 .icon {
@@ -67,4 +68,11 @@ button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
+}
+
+.container {
+}
+
+.modal .icon {
+  align-self: flex-start;
 }
