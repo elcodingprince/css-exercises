@@ -20,8 +20,8 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
-  padding: 18px;
   display: flex;
+  padding: 18px;
   gap: 18px;
 }
 
@@ -80,6 +80,14 @@ button.cancel {
 .header {
   display: flex;
   font-weight: bold;
+  font-size: large;
   justify-content: space-between;
+  gap: 18px;
 }
+
+.header.itemTwo {
+  display: flex;
+  gap: 18px;
+}
+
 
