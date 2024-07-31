@@ -32,3 +32,15 @@ ul {
 a {
   text-decoration: none;
 }
+
+.header {
+  display: flex;
+}
+
+.header .left-links {
+  display: flex;
+}
+
+.header .right-links {
+  display: flex;
+}
