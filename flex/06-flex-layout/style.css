@@ -40,13 +40,13 @@ a {
   gap: 10px;
 }
 
-.header .left-links {
+.left-links {
   display: flex;
   gap: 10px;
   margin-right: auto;
 }
 
-.header .right-links {
+.right-links {
   display: flex;
   gap: 10px;
   margin-left: auto;
@@ -57,5 +57,10 @@ a {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  flex: 1 1 auto;
+  gap: 16px;
+  flex: 1 1 0;
+}
+
+.footer {
+  display: flex;
 }
