@@ -31,16 +31,29 @@ ul {
 
 a {
   text-decoration: none;
+  color: rgb(125, 129, 132);
 }
 
 .header {
   display: flex;
+  gap: 10px;
 }
 
 .header .left-links {
   display: flex;
+  gap: 10px;
+  margin-right: auto;
 }
 
 .header .right-links {
   display: flex;
+  gap: 10px;
+  margin-left: auto;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
