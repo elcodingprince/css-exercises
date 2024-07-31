@@ -13,7 +13,6 @@ body {
   display: flex;
   align-items: center;
   padding: 10px;
-  font-weight: bold;
 }
 
 .footer {
@@ -22,12 +21,22 @@ body {
   color: darkmagenta;
 }
 
+.middle {
+  display: flex;
+}
+
 .sidebar {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  display: flex;
+  align-items: stretch;
+  flex-shrink: 0;
 }
 
+.cards {
+  display: flex;
+}
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
